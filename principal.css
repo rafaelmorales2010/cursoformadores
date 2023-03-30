@@ -1,0 +1,16 @@
+.principal{
+    display: block;
+    text-align: center;  
+}
+
+.principal img {
+    width: 30%;
+}
+
+h1 {
+    color: rgb(202, 134, 7);
+}
+body  {
+    background-color: rgb(237, 213, 182);
+    
+}
